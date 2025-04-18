@@ -11,8 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m a **2nd year BTech student** at IIIT Vadodara  
-- 💻 Currently working on: **E-Banking Fullstack App**  
+- 🎓 I’m a **2nd year BTech student** at IIIT Vadodara
 - 🌱 Learning: **MongoDB, JWT Auth, Docker**  
 - 🛠️ Tech Stack: **MERN**, MySQL, Express.js, React.js, Node.js  
 - 🧠 Interests: Hackathons, UI/UX, Building useful tech 💡
